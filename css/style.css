@@ -155,6 +155,32 @@
     color: black !important;
 }
 
+.all-products {
+    position: relative;
+}
+
+.all-products-kiri {
+    position: absolute;
+    left: 0px;
+    bottom: -64px;
+}
+
+.review {
+    position: relative;
+}
+
+.review-kanan {
+    position: absolute;
+    right: 130px;
+    bottom: -44px;
+}
+
+.review-kiri {
+    position: absolute;
+    right: 395px;
+    bottom: -44px;
+}
+
 .footer {
     position: relative;
 }
