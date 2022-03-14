@@ -1,6 +1,9 @@
 .p-0-260 {
     padding: 0px 260px;
 }
+.p-0-160 {
+    padding: 0px 160px;
+}
 
 .cta {
     position: relative;
@@ -88,6 +91,10 @@
 
 .br-51px {
     border-radius: 51px;
+}
+.br-51-1px {
+    border-radius: 51px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
 }
 
 .bg-default {
