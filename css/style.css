@@ -65,6 +65,17 @@
     margin-bottom: 4rem;
 }
 
+.visi-misi {
+    /* Gradient */
+    background: linear-gradient(117.78deg, #F9A8A5 34.55%, #E28A86 79.96%);
+    /* Gray Line */
+    border: 8px solid #F7F7F7;
+    box-sizing: border-box;
+    box-shadow: -40px 40px 50px rgba(85, 85, 85, 0.14);
+    border-radius: 20px;
+    color: white;
+}
+
 .footer {
     background-color: #F7ACB0;
 }
