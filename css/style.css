@@ -65,6 +65,12 @@
     margin-bottom: 4rem;
 }
 
+.titik-pojok {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+}
+
 .visi-misi {
     /* Gradient */
     background: linear-gradient(117.78deg, #F9A8A5 34.55%, #E28A86 79.96%);
